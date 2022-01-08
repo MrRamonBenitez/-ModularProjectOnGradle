@@ -1,2 +1,5 @@
 rootProject.name = 'ModularProjectOnGradle'
+include 'db'
+include 'api'
+include 'service'
 
